@@ -1,0 +1,28 @@
+{
+  "id": "56c2897c-2757-445e-b5f6-51588f7414a2",
+  "name": "SolutionDevCourse",
+  "publisher": "ERPG",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "capabilities": [
+    
+  ],
+  "showMyCode": true,
+  "features": "TranslationFile",
+  "target": "Internal",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "logo": "LOGO/ERPgruppen-logo_ext.jpg",
+  "idRange": {
+    "from": 123456700,
+    "to": 123456799
+  }
+}
